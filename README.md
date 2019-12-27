@@ -1,2 +1,2 @@
 # Neural-Net-From-Scratch
-A class for a basic feedforward neural network without any machine learning libraries. The only libraries being used are NumPy (for matrix multiplications and math) and Matplotlib (for optional visualization).
+A class for a basic feedforward neural network without any machine learning libraries. The only libraries being used are NumPy (for matrix multiplications and math) and Matplotlib (for optional visualization); these must be installed before the class is used. As well as a feedforward prediction algorithm, the class impelements gradient descent through backpropogation in order to improve accuracy of weights and biases. The network consists of only one hidden layer with a user-specified number of neurons.
